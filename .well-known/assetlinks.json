@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vityaz.aero",
+    "sha256_cert_fingerprints":
+    ["B7:42:CD:FF:D7:B3:2D:EE:09:93:E3:0A:94:56:FB:CE:50:01:57:66:40:13:BA:D4:88:88:7E:E1:9E:EA:DE:21"]
+  }
+}]
